@@ -7,3 +7,6 @@ The manager of the XYZ mall has approached us with this data where he has tried 
 Now the manager has come up to us with this data saying that he has an offer in his mind which he wants to roll out to specific customers by personally calling them. Since the data in the real world is huge, this cannot be done manually, since the manager cannot call each and every customer. So what we can do is apply K-means clustering algorithm to find out the potential customers for the manager so that he can call only those specific customers and roll out the offer to them.
 You are required to work upon this data and find out the optimum number of segments that can be generated, segment the customers and help the manager with the potential customers.
  
+# Problem Statement for KNN
+As we now have labelled data we can use such data to create a Machine Learning model that predicts that the customer given lies in which Category Target ,Sensible ,  Careful , Careless or Standard 
+This creates Indepedency for the client for future predictions 
